@@ -1,5 +1,8 @@
-## Programmers study
-- 프로그래머스 문제를 낮은 레벨부터 꾸준히 업로드해 공부하기
+## Study
+- programmers
+- goorm
+- solvedac
+문제 꾸준히 공부하고 기록하기
 
 |날짜|설명|언어|
 |:---|:---|:---|
@@ -49,3 +52,6 @@
 |240731|programmers-Level0-배열 만들기3|Python3|
 |240801|programmers-Level0-주사위 게임2|Python3|
 |240802|programmers-Level0-문자열 돌리기|Python3|
+|240810|goorm-난이도2-0채우기|Python3|
+|240810|goorm-난이도2-M배 배열|Python3|
+|240810|goorm-난이도2-구름찾기깃발|Python3|
